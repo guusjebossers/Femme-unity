@@ -10,7 +10,6 @@ body {
 	font-family: 'EB Garamond', serif;
 	
 	
-	
 }
 
 /* Changing the background colour for the header */
@@ -23,9 +22,9 @@ header {
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #dbd3c9;
+	background-color: #BFBFAB;
 	font-family: 'Playfair Display', serif; 
-	border-style: groove; border-color: #c66e4e; border-width: 2px;
+	
 	
 		
 }
@@ -36,6 +35,7 @@ footer a:hover {
 	opacity: .5;
 	font-family: 'Playfair Display', serif;
 	
+	
 }
 
 /* Corporate navbar */
@@ -44,4 +44,5 @@ footer a:hover {
 	color: #800000;
 	font-weight: bold;
 	text-color: #352d27
+	
 }
