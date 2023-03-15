@@ -4,13 +4,14 @@
 
 /* Changing the main font and background colour */
 
-body {
+body { 
 	
 	background-color: #dbd3c9;
 	font-family: 'EB Garamond', serif;
-	
-	
+  
 }
+	
+	
 
 /* Changing the background colour for the header */
 
