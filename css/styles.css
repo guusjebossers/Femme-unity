@@ -8,6 +8,8 @@ body {
 	
 	background-color: #dbd3c9;
 	font-family: 'EB Garamond', serif;
+	
+		
   
 }
 	
@@ -18,6 +20,7 @@ body {
 header {
 	background-color: #000060;
 	
+	
 }
 
 /* Changing the background color for the navigation bar */
@@ -25,6 +28,7 @@ header {
 .navbar {
 	background-color: #BFBFAB;
 	font-family: 'Playfair Display', serif; 
+	
 	
 	
 		
